@@ -1,4 +1,4 @@
-# ProjetoMonitoramentoGas
+# Projeto de Monitoramento de Gás
 
 Este projeto demonstra um protótipo como uma solução capaz de coletar os dados do peso do um botijão de gás para estimar a quantidade disponível. 
 A estrutura da balança foi manufaturada em MDF, com quatro células de carga distribuídas e acopladas em um amplificador de sinal, que envia estes para uma plataforma de prototipação com WiFi embutido, enviando estes dados por um protocolo MQTT ou HTTP.
